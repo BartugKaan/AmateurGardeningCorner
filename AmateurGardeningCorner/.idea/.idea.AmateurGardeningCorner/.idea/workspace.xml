@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b4210213-0495-43a5-ab7e-3ab72db413a0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AmateurGardeningCorner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AmateurGardeningCorner/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pure Poly/Free Low Poly Nature Pack/Prefabs/PP_Sunflower_04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pure Poly/Free Low Poly Nature Pack/Prefabs/PP_Sunflower_04.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RPGPP_LT/Materials/rpgpp_lt_mat_a.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RPGPP_LT/Materials/rpgpp_lt_mat_a.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickableItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickableItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickupItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickupItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickableItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -106,7 +105,7 @@
       <workItem from="1701266552679" duration="40000" />
       <workItem from="1701266600865" duration="852000" />
       <workItem from="1701268053595" duration="4800000" />
-      <workItem from="1701272917246" duration="4539000" />
+      <workItem from="1701272917246" duration="6495000" />
     </task>
     <servers />
   </component>
