@@ -6,6 +6,7 @@ public class PickableItem : MonoBehaviour
 {
     private bool isHeld = false;
     public Transform pickupPoint;
+    public bool isSeed = false;
 
     public void PickUp(Transform parent)
     {
